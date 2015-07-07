@@ -7,7 +7,7 @@ class ControllerBase extends Controller
 
     protected function initialize()
     {
-        $this->tag->prependTitle('赵璐璐 | ');
+        $this->tag->prependTitle('璐璐源 | ');
         $this->view->setTemplateAfter('main');
     }
 
