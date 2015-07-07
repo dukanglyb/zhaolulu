@@ -51,11 +51,11 @@ class SessionController extends ControllerBase
             ));
             if ($user != false) {
                 $this->_registerSession($user);
-                $this->flash->success('Welcome ' . $user->name);
+                $this->flash->success('欢迎 ' . $user->name);
                 return $this->forward('invoices/index');
             }
 
-            $this->flash->error('Wrong email/password');
+            $this->flash->error('用户密码/密码错误');
         }
 
         return $this->forward('session/index');

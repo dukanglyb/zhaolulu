@@ -13,35 +13,35 @@ class ContactForm extends Form
     {
         // Name
         $name = new Text('name');
-        $name->setLabel('Your Full Name');
+        $name->setLabel('您的全名');
         $name->setFilters(array('striptags', 'string'));
         $name->addValidators(array(
             new PresenceOf(array(
-                'message' => 'Name is required'
+                'message' => '名称是必填项'
             ))
         ));
         $this->add($name);
 
         // Email
         $email = new Text('email');
-        $email->setLabel('E-Mail');
+        $email->setLabel('您的邮箱');
         $email->setFilters('email');
         $email->addValidators(array(
             new PresenceOf(array(
-                'message' => 'E-mail is required'
+                'message' => '邮箱是必填项'
             )),
             new Email(array(
-                'message' => 'E-mail is not valid'
+                'message' => '无效的邮箱地址'
             ))
         ));
         $this->add($email);
 
         $comments = new TextArea('comments');
-        $comments->setLabel('Comments');
+        $comments->setLabel('评论');
         $comments->setFilters(array('striptags', 'string'));
         $comments->addValidators(array(
             new PresenceOf(array(
-                'message' => 'Comments is required'
+                'message' => '评论内容是必填项'
             ))
         ));
         $this->add($comments);

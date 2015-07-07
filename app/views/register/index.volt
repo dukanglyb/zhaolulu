@@ -2,7 +2,7 @@
 {{ content() }}
 
 <div class="page-header">
-    <h2>Register for 璐璐源</h2>
+    <h2>注册璐璐源</h2>
 </div>
 
 {{ form('register', 'id': 'registerForm', 'onbeforesubmit': 'return false') }}
@@ -64,8 +64,8 @@
         </div>
 
         <div class="form-actions">
-            {{ submit_button('Register', 'class': 'btn btn-primary', 'onclick': 'return SignUp.validate();') }}
-            <p class="help-block">By signing up, you accept terms of use and privacy policy.</p>
+            {{ submit_button('注册', 'class': 'btn btn-primary', 'onclick': 'return SignUp.validate();') }}
+            <p class="help-block">通过注册，你接受法律条款和隐私条款。</p>
         </div>
 
     </fieldset>

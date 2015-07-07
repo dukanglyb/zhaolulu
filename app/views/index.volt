@@ -8,7 +8,7 @@
         <meta name="description" content="北京璐璐源商贸有限公司">
         <meta name="author" content="李杜康">
     </head>
-    <body>
+    <body class="container">
         {{ content() }}
         {{ javascript_include('js/jquery.min.js') }}
         {{ javascript_include('js/bootstrap.min.js') }}
