@@ -2,23 +2,22 @@
 {{ content() }}
 
 <div class="jumbotron">
-    <h1>Welcome to 赵璐璐</h1>
-    <p>INVO is a revolutionary application to create invoices online for free.
-    Receive online payments from your clients and improve your cash flow</p>
-    <p>{{ link_to('register', 'Try it for Free &raquo;', 'class': 'btn btn-primary btn-large btn-success') }}</p>
+    <h1>欢迎来到璐璐源</h1>
+    <p>INVO是一个革命性的应用程序在线创建发票免费。从客户端接收在线付款和改善现金流</p>
+    <p>{{ link_to('register', '免费试用 &raquo;', 'class': 'btn btn-primary btn-large btn-success') }}</p>
 </div>
 
 <div class="row">
     <div class="col-md-4">
-        <h2>Manage Invoices Online</h2>
-        <p>Create, track and export your invoices online. Automate recurring invoices and design your own invoice using our invoice template and brand it with your business logo. </p>
+        <h2>管理在线发票</h2>
+        <p>创建，跟踪和在线导出您的发票。自动重复发票和使用我们的发票模板和品牌它与您的企业徽标设计自己的发票。</p>
     </div>
     <div class="col-md-4">
-        <h2>Dashboards And Reports</h2>
-        <p>Gain critical insights into how your business is doing. See what sells most, who are your top paying customers and the average time your customers take to pay.</p>
+        <h2>仪表板和报告</h2>
+        <p>获得关键洞察到你的企业是如何做的。看看销售最多的，谁是你的前付费用户的平均时间你的客户需要支付。</p>
     </div>
     <div class="col-md-4">
-        <h2>Invite, Share And Collaborate</h2>
-        <p>Invite users and share your workload as invoice supports multiple users with different permissions. It helps your business to be more productive and efficient. </p>
+        <h2>邀请，分享和协作</h2>
+        <p>邀请用户和分享您的工作量发票支持多个用户使用不同的权限。它可以帮助您的企业获得更高的生产效率。</p>
     </div>
 </div>

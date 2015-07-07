@@ -5,8 +5,8 @@
         {{ get_title() }}
         {{ stylesheet_link('css/bootstrap.min.css') }}
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Your invoices">
-        <meta name="author" content="Phalcon Team">
+        <meta name="description" content="北京璐璐源商贸有限公司">
+        <meta name="author" content="李杜康">
     </head>
     <body>
         {{ content() }}

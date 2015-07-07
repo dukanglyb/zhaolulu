@@ -5,24 +5,24 @@
 
     <div class="col-md-6">
         <div class="page-header">
-            <h2>Log In</h2>
+            <h2>登录</h2>
         </div>
         {{ form('session/start', 'role': 'form') }}
             <fieldset>
                 <div class="form-group">
-                    <label for="email">Username/Email</label>
+                    <label for="email">用户名/注册邮箱</label>
                     <div class="controls">
-                        {{ text_field('email', 'class': "form-control") }}
+                        {{ text_field('email', 'class': "form-control",'placeholder':'请输入您的用户名/注册邮箱') }}
                     </div>
                 </div>
                 <div class="form-group">
-                    <label for="password">Password</label>
+                    <label for="password">密码</label>
                     <div class="controls">
-                        {{ password_field('password', 'class': "form-control") }}
+                        {{ password_field('password', 'class': "form-control",'placeholder':'请输入密码') }}
                     </div>
                 </div>
                 <div class="form-group">
-                    {{ submit_button('Login', 'class': 'btn btn-primary btn-large') }}
+                    {{ submit_button('登录', 'class': 'btn btn-primary btn-large') }}
                 </div>
             </fieldset>
         </form>
@@ -31,18 +31,18 @@
     <div class="col-md-6">
 
         <div class="page-header">
-            <h2>Don't have an account yet?</h2>
+            <h2>还没有账号吗？</h2>
         </div>
 
-        <p>Create an account offers the following advantages:</p>
+        <p>创建一个帐户提供了以下优点：</p>
         <ul>
-            <li>Create, track and export your invoices online</li>
-            <li>Gain critical insights into how your business is doing</li>
-            <li>Stay informed about promotions and special packages</li>
+            <li>创建，跟踪和在线出口发票</li>
+            <li>获得关键洞察到你的生意怎么做</li>
+            <li>随时了解促销活动和优惠套餐</li>
         </ul>
 
         <div class="clearfix center">
-            {{ link_to('register', 'Sign Up', 'class': 'btn btn-primary btn-large btn-success') }}
+            {{ link_to('register', '注册', 'class': 'btn btn-primary btn-large btn-success') }}
         </div>
     </div>
 
