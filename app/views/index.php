@@ -20,12 +20,23 @@
 <!--    --><?php //echo $this->tag->stylesheetLink('dep/bootstrap/css/font-awesome.min.css');?>
 <!--    --><?php //echo $this->tag->stylesheetLink('dep/bootstrap/css/font-awesome.min.css');?>
 <!--    --><?php //echo $this->tag->stylesheetLink('dep/bootstrap/css/font-awesome.min.css');?>
-<!--    --><?php //echo $this->tag->stylesheetLink('dep/bootstrap/css/font-awesome.min.css');?>
 
     <?php echo $this->tag->javascriptInclude('dep/less/less.min.js'); ?>
     <?php echo $this->tag->javascriptInclude('dep/mod.js'); ?>
     <?php echo $this->tag->javascriptInclude('dep/jquery/jquery-1.11.2.min.js'); ?>
     <?php echo $this->tag->javascriptInclude('dep/bootstrap/js/bootstrap.min.js'); ?>
+    <!--轮播图片插件start-->
+    <?php echo $this->tag->stylesheetLink('dep/nivoSlider/themes/bar/bar.css');?>
+    <?php echo $this->tag->stylesheetLink('dep/nivoSlider/themes/dark/dark.css');?>
+    <?php echo $this->tag->stylesheetLink('dep/nivoSlider/themes/default/default.css');?>
+    <?php echo $this->tag->stylesheetLink('dep/nivoSlider/themes/light/light.css');?>
+
+    <?php echo $this->tag->stylesheetLink('dep/nivoSlider/init.css');?>
+    <?php echo $this->tag->stylesheetLink('dep/nivoSlider/style.css');?>
+
+    <?php echo $this->tag->stylesheetLink('dep/nivoSlider/nivo-slider.css');?>
+    <?php echo $this->tag->javascriptInclude('dep/nivoSlider/jquery.nivo.slider.js'); ?>
+    <!--轮播图片插件结束-->
     <?php echo $this->tag->javascriptInclude('js/utils.js'); ?>
 </head>
 <body class="container">

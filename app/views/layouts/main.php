@@ -17,6 +17,6 @@
     <?php echo $this->getContent(); ?>
     <hr>
     <footer>
-        <p>&copy; Company 2014-<?php echo date("Y");?></p>
+        <p>北京璐璐源商贸有限公司 Company &copy; 2014-<?php echo date("Y");?></p>
     </footer>
 </div>

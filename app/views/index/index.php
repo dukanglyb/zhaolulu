@@ -1,6 +1,22 @@
 
 <?php echo $this->getContent(); ?>
 
+<div id="wrapper">
+    <div class="slider-wrapper theme-default">
+        <div id="slider" class="nivoSlider">
+            <img src="/dep/nivoSlider/images/toystory.jpg" data-thumb="/dep/nivoSlider/images/toystory.jpg" alt="" />
+            <a href="http://baidu.com"><img src="/dep/nivoSlider/images/up.jpg" data-thumb="/dep/nivoSlider/images/up.jpg" alt="" title="This is an example of a caption" /></a>
+            <img src="/dep/nivoSlider/images/walle.jpg" data-thumb="/dep/nivoSlider/images/walle.jpg" alt="" data-transition="slideInLeft" />
+            <img src="/dep/nivoSlider/images/nemo.jpg" data-thumb="/dep/nivoSlider/images/nemo.jpg" alt="" title="#htmlcaption" />
+        </div>
+        <div id="htmlcaption" class="nivo-html-caption">
+            <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>.
+        </div>
+    </div>
+    <div class="footer-banner" style="width:728px; margin:0 auto"></div>
+</div>
+
+
 <div class="jumbotron">
     <h1>欢迎来到璐璐源</h1>
     <p>INVO是一个革命性的应用程序在线创建发票免费。从客户端接收在线付款和改善现金流</p>
@@ -21,3 +37,10 @@
         <p>邀请用户和分享您的工作量发票支持多个用户使用不同的权限。它可以帮助您的企业获得更高的生产效率。</p>
     </div>
 </div>
+
+
+<?php echo $this->tag->javascriptInclude('js/main.js'); ?>
+<script>
+    require('jquery.nivo.slider');
+    require('main');
+</script>
