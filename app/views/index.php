@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui">
     <meta http-equiv="cache-control" content="no-siteapp"/>
     <meta name="robots" content="index,follow">
-    <meta name="keywords" content="百市通，电子商务，互联网金融，P2P">
+    <meta name="keywords" content="璐璐源,璐璐">
     <meta name="description" content="北京璐璐源商贸有限公司">
     <meta name="author" content="李杜康">
     <link href="/public/faeimg/favicon.ico" rel="shortcut icon" type="image/x-icon">

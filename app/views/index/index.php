@@ -13,15 +13,15 @@
             <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>.
         </div>
     </div>
-    <div class="footer-banner" style="width:728px; margin:0 auto"></div>
+    <div class="footer-banner"></div>
 </div>
 
 
-<div class="jumbotron">
-    <h1>欢迎来到璐璐源</h1>
-    <p>INVO是一个革命性的应用程序在线创建发票免费。从客户端接收在线付款和改善现金流</p>
-    <p><?php echo $this->tag->linkTo(array('register', '免费试用 &raquo;', 'class' => 'btn btn-primary btn-large btn-success')); ?></p>
-</div>
+<!--<div class="jumbotron">-->
+<!--    <h1>欢迎来到璐璐源</h1>-->
+<!--    <p>INVO是一个革命性的应用程序在线创建发票免费。从客户端接收在线付款和改善现金流</p>-->
+<!--    <p>--><?php //echo $this->tag->linkTo(array('register', '免费试用 &raquo;', 'class' => 'btn btn-primary btn-large btn-success')); ?><!--</p>-->
+<!--</div>-->
 
 <div class="row">
     <div class="col-md-4">
