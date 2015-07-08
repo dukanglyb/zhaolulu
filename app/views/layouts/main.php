@@ -17,6 +17,6 @@
     <?php echo $this->getContent(); ?>
     <hr>
     <footer>
-        <p>&copy; Company 2015</p>
+        <p>&copy; Company 2014-<?php echo date("Y");?></p>
     </footer>
 </div>

@@ -16,8 +16,12 @@ class Elements extends Component
                 'caption' => '首页',
                 'action' => 'index'
             ),
-            'invoices' => array(
-                'caption' => 'Invoices',
+            'products' => array(
+                'caption' => '产品中心',
+                'action' => 'index'
+            ),
+            'news' => array(
+                'caption' => '新闻中心',
                 'action' => 'index'
             ),
             'about' => array(
