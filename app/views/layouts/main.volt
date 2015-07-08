@@ -14,7 +14,6 @@
 </nav>
 
 <div>
-    {{ flash.output() }}
     {{ content() }}
     <hr>
     <footer>
