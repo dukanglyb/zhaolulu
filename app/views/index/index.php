@@ -1,10 +1,10 @@
 
-{{ content() }}
+<?php echo $this->getContent(); ?>
 
 <div class="jumbotron">
     <h1>欢迎来到璐璐源</h1>
     <p>INVO是一个革命性的应用程序在线创建发票免费。从客户端接收在线付款和改善现金流</p>
-    <p>{{ link_to('register', '免费试用 &raquo;', 'class': 'btn btn-primary btn-large btn-success') }}</p>
+    <p><?php echo $this->tag->linkTo(array('register', '免费试用 &raquo;', 'class' => 'btn btn-primary btn-large btn-success')); ?></p>
 </div>
 
 <div class="row">

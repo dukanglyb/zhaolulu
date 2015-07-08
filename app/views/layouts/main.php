@@ -9,12 +9,12 @@
             </button>
             <a class="navbar-brand" href="#">璐璐源</a>
         </div>
-        {{ elements.getMenu() }}
+        <?php echo $this->elements->getMenu(); ?>
     </div>
 </nav>
 
 <div>
-    {{ content() }}
+    <?php echo $this->getContent(); ?>
     <hr>
     <footer>
         <p>&copy; Company 2015</p>
