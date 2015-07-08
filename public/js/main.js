@@ -8,5 +8,11 @@ define('main', function(require, exports, module) {
 
     //fn.injectCode();
 
-    $('#slider').nivoSlider();
+    //$('#slider').nivoSlider();
+    $('.flexslider').flexslider({
+        animation: "slide",
+        start: function(slider){
+            $('body').removeClass('loading');
+        }
+    });
 });

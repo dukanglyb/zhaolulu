@@ -1,21 +1,26 @@
-
 <?php echo $this->getContent(); ?>
-
-<div id="wrapper">
-    <div class="slider-wrapper theme-default">
-        <div id="slider" class="nivoSlider">
-            <img src="/dep/nivoSlider/images/toystory.jpg" data-thumb="/dep/nivoSlider/images/toystory.jpg" alt="" />
-            <a href="http://baidu.com"><img src="/dep/nivoSlider/images/up.jpg" data-thumb="/dep/nivoSlider/images/up.jpg" alt="" title="This is an example of a caption" /></a>
-            <img src="/dep/nivoSlider/images/walle.jpg" data-thumb="/dep/nivoSlider/images/walle.jpg" alt="" data-transition="slideInLeft" />
-            <img src="/dep/nivoSlider/images/nemo.jpg" data-thumb="/dep/nivoSlider/images/nemo.jpg" alt="" title="#htmlcaption" />
-        </div>
-        <div id="htmlcaption" class="nivo-html-caption">
-            <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>.
-        </div>
+<div class="cf">
+    <div role="main">
+        <section class="slider">
+            <div class="flexslider">
+                <ul class="slides">
+                    <li>
+                        <img src="/dep/flexslider/images/kitchen_adventurer_cheesecake_brownie.jpg" />
+                    </li>
+                    <li>
+                        <img src="/dep/flexslider/images/kitchen_adventurer_lemon.jpg" />
+                    </li>
+                    <li>
+                        <img src="/dep/flexslider/images/kitchen_adventurer_donut.jpg" />
+                    </li>
+                    <li>
+                        <img src="/dep/flexslider/images/kitchen_adventurer_caramel.jpg" />
+                    </li>
+                </ul>
+            </div>
+        </section>
     </div>
-    <div class="footer-banner"></div>
 </div>
-
 
 <!--<div class="jumbotron">-->
 <!--    <h1>欢迎来到璐璐源</h1>-->
@@ -41,6 +46,6 @@
 
 <?php echo $this->tag->javascriptInclude('js/main.js'); ?>
 <script>
-    require('jquery.nivo.slider');
+    require('flexslider');
     require('main');
 </script>
