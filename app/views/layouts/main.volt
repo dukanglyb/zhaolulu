@@ -13,7 +13,7 @@
     </div>
 </nav>
 
-<div class="container">
+<div>
     {{ flash.output() }}
     {{ content() }}
     <hr>
