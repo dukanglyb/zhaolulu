@@ -8,7 +8,7 @@ define('main', function(require, exports, module) {
 
     //fn.injectCode();
 
-    //$('#slider').nivoSlider();
+    //轮播图片
     $('.flexslider').flexslider({
         animation: "slide",
         start: function(slider){

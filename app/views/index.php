@@ -15,12 +15,14 @@
 
 
     <?php echo $this->tag->getTitle(); ?>
+    <?php echo $this->tag->stylesheetLink('css/base.css'); ?>
     <?php echo $this->tag->stylesheetLink('dep/bootstrap/css/bootstrap.min.css'); ?>
     <?php echo $this->tag->stylesheetLink('dep/bootstrap/css/font-awesome.min.css');?>
 <!--    --><?php //echo $this->tag->stylesheetLink('dep/bootstrap/css/font-awesome.min.css');?>
 <!--    --><?php //echo $this->tag->stylesheetLink('dep/bootstrap/css/font-awesome.min.css');?>
 <!--    --><?php //echo $this->tag->stylesheetLink('dep/bootstrap/css/font-awesome.min.css');?>
 
+    <link rel="stylesheet/less" type="text/css" href="/css/main.less"/>
     <?php echo $this->tag->javascriptInclude('dep/less/less.min.js'); ?>
     <?php echo $this->tag->javascriptInclude('dep/mod.js'); ?>
     <?php echo $this->tag->javascriptInclude('dep/jquery/jquery-1.11.2.min.js'); ?>
@@ -29,6 +31,7 @@
     <?php echo $this->tag->stylesheetLink('dep/flexslider/flexslider.css');?>
     <?php echo $this->tag->javascriptInclude('dep/flexslider/jquery.flexslider.js'); ?>
     <!--轮播图片插件结束-->
+
     <?php echo $this->tag->javascriptInclude('js/utils.js'); ?>
 </head>
 <body class="container">
