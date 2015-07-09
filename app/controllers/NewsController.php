@@ -12,4 +12,8 @@ class NewsController extends ControllerBase
     {
 
     }
+    public function newdetailsAction()
+    {
+
+    }
 }
