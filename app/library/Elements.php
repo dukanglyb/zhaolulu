@@ -32,6 +32,10 @@ class Elements extends Component
                 'caption' => '联系我们',
                 'action' => 'index'
             ),
+            'suggestion' => array(
+                'caption' => '意见反馈',
+                'action' => 'index'
+            ),
         ),
         'navbar-right' => array(
             'session' => array(

@@ -16,7 +16,31 @@
 <div>
     <?php echo $this->getContent(); ?>
     <hr>
+    <div id="index-footer" class="footer">
+        <div class="footer-center">
+            <!--合作伙伴-->
+            <div class="footer-link">
+                <p>
+                    <a href="/shared/company">公司简介</a>
+                    <b>|</b>
+                    <a href="/shared/contactus">联系我们</a>
+                    <b>|</b>
+                    <a href="/shared/employ">招贤纳士</a>
+                    <b>|</b>
+                    <a href="/contact/suggestion">意见反馈</a>
+                </p>
+            </div>
+            <div class="footer-copyright">
+                <p>
+                    <em>Company &copy; 2014-<?php echo date("Y");?> 璐璐源 京 ICP 备 10011451号-6 北京璐璐源商贸有限公司</em>
+                </p>
+                <p style="text-align: center;">
+                    全国统一客服专线:18612098866    QQ在线技术咨询号码:245012628
+                </p>
+            </div>
+        </div>
+    </div>
     <footer>
-        <p>北京璐璐源商贸有限公司 Company &copy; 2014-<?php echo date("Y");?></p>
+        <p> </p>
     </footer>
 </div>
