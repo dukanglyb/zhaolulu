@@ -17,7 +17,7 @@
     <?php echo $this->getContent(); ?>
     <hr>
     <div id="index-footer" class="footer">
-        <div class="footer-center">
+        <div class="footer-center"
             <!--合作伙伴-->
             <div class="footer-link">
                 <p>

@@ -11,9 +11,6 @@
     <meta name="description" content="北京璐璐源商贸有限公司">
     <meta name="author" content="李杜康">
     <link href="/public/faeimg/favicon.ico" rel="shortcut icon" type="image/x-icon">
-
-
-
     <?php echo $this->tag->getTitle(); ?>
     <?php echo $this->tag->stylesheetLink('css/base.css'); ?>
     <?php echo $this->tag->stylesheetLink('dep/bootstrap/css/bootstrap.min.css'); ?>

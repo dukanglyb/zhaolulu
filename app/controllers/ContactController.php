@@ -14,16 +14,13 @@ class ContactController extends ControllerBase
     }
 
     public function indexAction(){
+
     }
 
     public function suggestionAction()
     {
-        try{
-            $this->tag->setTitle('意见反馈');
-            $this->view->form = new ContactForm;
-        }catch (\Exception $e){
-            echo get_class($e),':',$e->getMessage(),'\n';
-        }
+        $this->tag->setTitle('意见反馈');
+        $this->view->form = new ContactForm;
     }
 
     /**
