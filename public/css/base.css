@@ -73,6 +73,8 @@ abbr,acronym{border:0;}
 .h200{height:200px;}
 .h{height:100%}
 
+
+
 .m10{margin:10px;}
 .m15{margin:15px;}
 .m30{margin:30px;}
@@ -128,6 +130,7 @@ abbr,acronym{border:0;}
 .pl30{padding-left:30px;}
 .pl50{padding-left:50px;}
 .pl100{padding-left:100px;}
+.pl450{padding-left:450px;}
 .pr5{padding-right:5px;}
 .pr10{padding-right:10px;}
 .pr15{padding-right:15px;}
@@ -135,3 +138,10 @@ abbr,acronym{border:0;}
 .pr30{padding-right:30px;}
 .pr50{padding-right:50px;}
 .pr100{padding-right:100px;}
+.pt40{padding-top: 40px;  }
+.f18{font-size: 18px;}
+.f40{font-size: 40px;}
+.mb40{margin-bottom: 40px;}
+.ml150{margin-left: 150px;}
+.pl25{padding-left: 25px;}
+.ml200{margin-left: 200px;}
