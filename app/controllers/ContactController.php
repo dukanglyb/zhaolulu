@@ -23,6 +23,11 @@ class ContactController extends ControllerBase
         $this->view->form = new ContactForm;
     }
 
+    public function employAction()
+    {
+
+    }
+
     /**
      * Saves the contact information in the database
      */

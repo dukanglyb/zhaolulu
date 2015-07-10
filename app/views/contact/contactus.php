@@ -1,7 +1,11 @@
 <?php echo $this->getContent(); ?>
 
-<div class="page-header">
-    <h2>联系我们</h2>
+<div class="title20">
+    <div class="mianbao">
+        当前位置 :
+        <a title="暖气片" href="/">首页</a>
+        &gt;&gt;<a title="新闻中心" href="/contact/contactus">联系我们</a>
+    </div>
 </div>
 <p>
     <p>Tel: 010-51626315</p>

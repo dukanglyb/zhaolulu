@@ -21,11 +21,11 @@
             <!--合作伙伴-->
             <div class="footer-link">
                 <p>
-                    <a href="/shared/company">公司简介</a>
+                    <a href="/about/index">关于我们</a>
                     <b>|</b>
                     <a href="/contact/contactus">联系我们</a>
                     <b>|</b>
-                    <a href="/shared/employ">招贤纳士</a>
+                    <a href="/contact/employ">招贤纳士</a>
                     <b>|</b>
                     <a href="/contact/suggestion">意见反馈</a>
                 </p>

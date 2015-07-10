@@ -302,6 +302,7 @@
     display: none;
   }
 }
+
 .title21 {
   margin: 30px 0 10px;
   text-align: center;
@@ -345,7 +346,7 @@
     }
     p {
       float: right;
-      width:700px;
+      width: 700px;
       margin: 8px 0 0;
     }
     p a {
@@ -360,7 +361,260 @@
   }
 }
 
+/*********产品********/
+.chanpin1 {
+  height: 37px;
+  padding: 60px 0 0 0;
+  a {
+    display: block;
+    height: 37px;
+    width: 156px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 37px;
+    text-align: center;
+    color: #FFF;
+    background: #F00;
+    margin: 0 auto;
+  }
+}
 
+
+.chanpin2 {
+  text-align: center;
+  margin: 30px 0 50px;
+  height: 30px;
+  line-height: 30px;
+  background: url(images/xian1.gif) center center repeat-x;
+  a {
+    margin: 0 10px;
+    color: #404040;
+    font-family: 微软雅黑;
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+}
+
+.chanpin3 {
+  height: 267px;
+  background: url(images/chanpin3.gif) left bottom repeat-x;
+}
+
+/* 滚动图片 */
+.scroll10 {
+  width: 670px;
+  margin: 0 auto;
+  position: relative;
+  padding: 0px 160px 0px 100px;
+  overflow: hidden;
+  ul {
+    padding-top: 0px;
+  }
+  li {
+    width: 224px;
+    text-align: left;
+    padding: 0px 8px 0;
+    p {
+      height: 70px;
+      padding: 20px;
+      font-size: 14px;
+      background: #C9CACA;
+      color: #4C4948;
+      font-weight: bold;
+      font-family: 微软雅黑;
+      span {
+        display: block;
+        padding: 5px 0 0;
+      }
+    }
+    :hover p {
+      background: #EFEFEF;
+      color: #E60012
+    }
+    span {
+      color: #F3572F;
+    }
+  }
+  :hover img.img1 {
+    display: none;
+  }
+  :hover img.img2 {
+    display: block;
+  }
+  img {
+    height: 157px;
+    width: 224px;
+    margin-bottom: 0px;
+    padding: 0;
+    border: none;
+    background: none;
+  }
+  img.img1 {
+    display: block;
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: gray;
+  }
+  img.img2 {
+    display: none;
+  }
+
+}
+
+.scroll10 img:hover, #list-view .highlight {
+  border-color: #ff8015;
+  _border: none;
+}
+
+.scroll10 a.bx-prev, .scroll10 a.bx-next {
+  position: absolute;
+  top: 120px;
+  display: block;
+  width: 53px;
+  height: 53px;
+  background: url(images/gundong_l.png) no-repeat center center;
+  z-index: 99999;
+}
+
+.scroll10 a.bx-prev {
+  left: -74px;
+}
+
+.scroll10 a.bx-prev:hover {
+  background: url(images/gundong_l.png) no-repeat center center;
+}
+
+.scroll10 a.bx-next {
+  right: -74px;
+  background: url(images/gundong_r.png) no-repeat center center;
+}
+
+.scroll10 a.bx-next:hover {
+  background: url(images/gundong_r.png) no-repeat center center;
+}
+
+.chanpin4 {
+  margin: 120px 0 30px 0;
+}
+
+/* 滚动图片 */
+.scroll20 {
+  width: 670px;
+  margin: 0 auto;
+  position: relative;
+  padding: 0px 110px 0px 70px;
+  overflow: hidden;
+  ul {
+    padding-top: 0px;
+  }
+  li {
+    width: 570px;
+    text-align: left;
+    padding: 0px 60px 0;
+    span {
+      color: #F3572F;
+    }
+  }
+  img {
+    max-width: 250px;
+    max-height: 400px;
+    margin-bottom: 0px;
+    padding: 0;
+    border: none;
+    background: none;
+    :hover, #list-view .highlight {
+      border-color: #ff8015;
+      _border: none;
+    }
+  }
+}
+
+.scroll20 a.bx-prev, .scroll20 a.bx-next {
+  position: absolute;
+  top: 80px;
+  display: block;
+  width: 53px;
+  height: 53px;
+  background: url(images/gundong20_l.gif) no-repeat center center;
+  z-index: 99999;
+}
+
+.scroll20 a.bx-prev {
+  left: -74px;
+}
+
+.scroll20 a.bx-prev:hover {
+  background: url(images/gundong20_l2.gif) no-repeat center center;
+}
+
+.scroll20 a.bx-next {
+  right: -74px;
+  background: url(images/gundong20_r.gif) no-repeat center center;
+}
+
+.scroll20 a.bx-next:hover {
+  background: url(images/gundong20_r2.gif) no-repeat center center;
+}
+
+.scroll20_l {
+  float: left;
+  width: 250px;
+}
+
+.scroll20_r {
+  float: right;
+  width: 270px;
+}
+
+.scroll20_r_title {
+  height: 35px;
+  line-height: 35px;
+  border-bottom: 1px dashed #CCC;
+  a {
+    color: #E60012;
+    font-weight: bold;
+    font-size: 18px;
+  }
+}
+
+.scroll20_r_text {
+  line-height: 22px;
+  height: 110px;
+  overflow: hidden;
+  margin: 10px 0;
+}
+
+.scroll20_r_more a {
+  display: block;
+  float: left;
+  padding: 0 15px 0 25px;
+  line-height: 26px;
+  color: #FFF;
+  height: 26px;
+  background: #FF0000 url(images/scroll20_r_more.gif) 15px center no-repeat;
+}
+
+/***************公司简介**************/
+.nav_site {
+  height: 25px;
+  line-height: 25px;
+  border-bottom: #999 1px dotted;
+  border-top: #999 1px dotted;
+  margin-bottom: 10px;
+  color: #b3b2b3;
+  text-align: right;
+}
+
+.aboutus {
+  height: auto;
+  padding: 20px 0;
+  color: #807F7F;
+  line-height: 22px;
+}
 
 
 
