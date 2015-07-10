@@ -30,7 +30,7 @@ class Elements extends Component
             ),
             'contact' => array(
                 'caption' => '联系我们',
-                'action' => 'index'
+                'action' => 'contactus'
             )
         ),
         'navbar-right' => array(

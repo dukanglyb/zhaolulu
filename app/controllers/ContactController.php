@@ -13,7 +13,7 @@ class ContactController extends ControllerBase
         parent::initialize();
     }
 
-    public function indexAction(){
+    public function contactusAction(){
 
     }
 

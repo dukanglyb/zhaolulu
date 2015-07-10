@@ -23,7 +23,7 @@
                 <p>
                     <a href="/shared/company">公司简介</a>
                     <b>|</b>
-                    <a href="/shared/contactus">联系我们</a>
+                    <a href="/contact/contactus">联系我们</a>
                     <b>|</b>
                     <a href="/shared/employ">招贤纳士</a>
                     <b>|</b>
