@@ -1,337 +1,53 @@
 <?php echo $this->getContent(); ?>
 
-<div class="index_bg">
-    <div class="chanpin1">
-        <a>五大产品系列</a>
+<div class="title20">
+    <div class="mianbao">
+        当前位置 :
+        <a title="暖气片" href="/">首页</a>
+        &gt;&gt;<a title="新闻中心" href="/products/index">产品中心</a>
     </div>
-    <div class="chanpin2">
-        <a title="钢制系列" href="/Steel_radiator">钢制系列</a>
-        <a title="铜铝系列" href="/Cu-Al_Radiator">铜铝系列</a>
-        <a title="钢铝系列" href="/Steel_aluminum">钢铝系列</a>
-        <a title="卫浴系列" href="/Bathroom_series">卫浴系列</a>
-        <a title="蒸汽系列" href="/Steam_Radiator">蒸汽系列</a>
-    </div>
-    <div class="chanpin3">
-        <!-- 滚动图片开始 -->
+</div>
 
-
-        <div class="scroll10">
-            <div class="bx-wrapper" style="width:720px; position:relative;">
-                <div class="bx-window" style="position:relative; overflow:hidden; width:720px;">
-                    <ul id="scroll10" style="width: 99999px; position: relative; left: -1200px;">
-                        <li style="width: 224px; float: left; list-style: none;">
-                            <a title="" target="_blank" href="/Steam_Radiator"><img class="img1"
-                                                                                    src="/upload/images/201412/14180109653888.jpg"
-                                                                                    width="106" height="62" alt=""
-                                                                                    data-bd-imgshare-binded="1"></a>
-                            <a title="" target="_blank" href="/Steam_Radiator"><img class="img2"
-                                                                                    src="/upload/images/201412/14180109653888.jpg"
-                                                                                    width="106" height="62" alt=""
-                                                                                    data-bd-imgshare-binded="1"></a>
-
-                            <p>
-                                <span>Steam_Radiator</span>
-                                <a title="蒸汽系列" href="/Steam_Radiator">蒸汽系列</a>
-                            </p>
-                        </li>
-                        <li class="pager" style="width: 224px; float: left; list-style: none;">
-                            <a title="" target="_blank" href="/Steel_radiator"><img class="img1"
-                                                                                    src="/upload/images/201412/14180107814797.jpg"
-                                                                                    width="106" height="62" alt=""
-                                                                                    data-bd-imgshare-binded="1"></a>
-                            <a title="" target="_blank" href="/Steel_radiator"><img class="img2"
-                                                                                    src="/upload/images/201412/14180107814797.jpg"
-                                                                                    width="106" height="62" alt=""
-                                                                                    data-bd-imgshare-binded="1"></a>
-
-                            <p>
-                                <span>Steel_radiator</span>
-                                <a title="钢制系列" href="/Steel_radiator">钢制系列</a>
-                            </p>
-                        </li>
-                        <li class="pager" style="width: 224px; float: left; list-style: none;">
-                            <a title="" target="_blank" href="/Cu-Al_Radiator"><img class="img1"
-                                                                                    src="/upload/images/201412/14180108247697.jpg"
-                                                                                    width="106" height="62" alt=""
-                                                                                    data-bd-imgshare-binded="1"></a>
-                            <a title="" target="_blank" href="/Cu-Al_Radiator"><img class="img2"
-                                                                                    src="/upload/images/201412/14180108247697.jpg"
-                                                                                    width="106" height="62" alt=""
-                                                                                    data-bd-imgshare-binded="1"></a>
-
-                            <p>
-                                <span>Cu-Al_Radiator</span>
-                                <a title="铜铝系列" href="/Cu-Al_Radiator">铜铝系列</a>
-                            </p>
-                        </li>
-                        <li class="pager" style="width: 224px; float: left; list-style: none;">
-                            <a title="" target="_blank" href="/Steel_aluminum"><img class="img1"
-                                                                                    src="/upload/images/201412/14180108646754.jpg"
-                                                                                    width="106" height="62" alt=""
-                                                                                    data-bd-imgshare-binded="1"></a>
-                            <a title="" target="_blank" href="/Steel_aluminum"><img class="img2"
-                                                                                    src="/upload/images/201412/14180108646754.jpg"
-                                                                                    width="106" height="62" alt=""
-                                                                                    data-bd-imgshare-binded="1"></a>
-
-                            <p>
-                                <span>Steel_aluminum</span>
-                                <a title="钢铝系列" href="/Steel_aluminum">钢铝系列</a>
-                            </p>
-                        </li>
-                        <li class="pager" style="width: 224px; float: left; list-style: none;">
-                            <a title="" target="_blank" href="/Bathroom_series"><img class="img1"
-                                                                                     src="/upload/images/201412/14180109115616.jpg"
-                                                                                     width="106" height="62" alt=""
-                                                                                     data-bd-imgshare-binded="1"></a>
-                            <a title="" target="_blank" href="/Bathroom_series"><img class="img2"
-                                                                                     src="/upload/images/201412/14180109115616.jpg"
-                                                                                     width="106" height="62" alt=""
-                                                                                     data-bd-imgshare-binded="1"></a>
-
-                            <p>
-                                <span>Bathroom_series</span>
-                                <a title="卫浴系列" href="/Bathroom_series">卫浴系列</a>
-                            </p>
-                        </li>
-                        <li class="pager" style="width: 224px; float: left; list-style: none;">
-                            <a title="" target="_blank" href="/Steam_Radiator"><img class="img1"
-                                                                                    src="/upload/images/201412/14180109653888.jpg"
-                                                                                    width="106" height="62" alt=""
-                                                                                    data-bd-imgshare-binded="1"></a>
-                            <a title="" target="_blank" href="/Steam_Radiator"><img class="img2"
-                                                                                    src="/upload/images/201412/14180109653888.jpg"
-                                                                                    width="106" height="62" alt=""
-                                                                                    data-bd-imgshare-binded="1"></a>
-
-                            <p>
-                                <span>Steam_Radiator</span>
-                                <a title="蒸汽系列" href="/Steam_Radiator">蒸汽系列</a>
-                            </p>
-                        </li>
-
-                        <li style="width: 224px; float: left; list-style: none;">
-                            <a title="" target="_blank" href="/Steel_radiator"><img class="img1"
-                                                                                    src="/upload/images/201412/14180107814797.jpg"
-                                                                                    width="106" height="62" alt=""
-                                                                                    data-bd-imgshare-binded="1"></a>
-                            <a title="" target="_blank" href="/Steel_radiator"><img class="img2"
-                                                                                    src="/upload/images/201412/14180107814797.jpg"
-                                                                                    width="106" height="62" alt=""
-                                                                                    data-bd-imgshare-binded="1"></a>
-
-                            <p>
-                                <span>Steel_radiator</span>
-                                <a title="钢制系列" href="/Steel_radiator">钢制系列</a>
-                            </p>
-                        </li>
-                        <li style="width: 224px; float: left; list-style: none;">
-                            <a title="" target="_blank" href="/Cu-Al_Radiator"><img class="img1"
-                                                                                    src="/upload/images/201412/14180108247697.jpg"
-                                                                                    width="106" height="62" alt=""
-                                                                                    data-bd-imgshare-binded="1"></a>
-                            <a title="" target="_blank" href="/Cu-Al_Radiator"><img class="img2"
-                                                                                    src="/upload/images/201412/14180108247697.jpg"
-                                                                                    width="106" height="62" alt=""
-                                                                                    data-bd-imgshare-binded="1"></a>
-
-                            <p>
-                                <span>Cu-Al_Radiator</span>
-                                <a title="铜铝系列" href="/Cu-Al_Radiator">铜铝系列</a>
-                            </p>
-                        </li>
-                        <li style="width: 224px; float: left; list-style: none;">
-                            <a title="" target="_blank" href="/Steel_aluminum"><img class="img1"
-                                                                                    src="/upload/images/201412/14180108646754.jpg"
-                                                                                    width="106" height="62" alt=""
-                                                                                    data-bd-imgshare-binded="1"></a>
-                            <a title="" target="_blank" href="/Steel_aluminum"><img class="img2"
-                                                                                    src="/upload/images/201412/14180108646754.jpg"
-                                                                                    width="106" height="62" alt=""
-                                                                                    data-bd-imgshare-binded="1"></a>
-
-                            <p>
-                                <span>Steel_aluminum</span>
-                                <a title="钢铝系列" href="/Steel_aluminum">钢铝系列</a>
-                            </p>
-                        </li>
-                    </ul>
-                </div>
-                <a href="" class="bx-prev"></a><a href="" class="bx-next"></a></div>
-
-        </div>
-        <!-- 滚动结束 -->
-    </div>
-    <div class="chanpin4">
-
-        <div class="scroll20">
-            <div class="bx-wrapper" style="width:690px; position:relative;">
-                <div class="bx-window" style="position:relative; overflow:hidden; width:690px;">
-                    <ul id="scroll20" style="width: 99999px; position: relative; left: -1380px;">
-                        <li style="width: 570px; float: left; list-style: none;">
-                            <div class="scroll20_l">
-                                <center><a title="铜铝卫浴暖气片 铜铝卫浴散热器" target="_blank" href="/show_181.html"><img
-                                            alt="铜铝卫浴暖气片 铜铝卫浴散热器" src="/upload/images/201408/14068605938967.jpg"
-                                            data-bd-imgshare-binded="1"></a></center>
-                            </div>
-                            <div class="scroll20_r">
-                                <div class="scroll20_r_title">
-                                    <a title="铜铝卫浴暖气片 铜铝卫浴散热器" target="_blank" href="/show_181.html"><font
-                                            style="color:#ff0000;">铜铝卫浴暖气片 铜铝卫浴</font></a>
-                                </div>
-                                <div class="scroll20_r_text">铜铝卫浴暖气片
-                                    铜铝卫浴散热器传递一份温馨，呈现一种高雅品位，材质采用优质的电解紫铜作为主管和副管，散热翼铝型材是采用优质铝型材。采用全自动液压胀管工艺，胀管均匀，无间隙，散热性能稳定……
-                                </div>
-                                <div class="scroll20_r_more"><a target="_blank" href="/show_181.html">查看详情</a></div>
-                            </div>
-                            <div class="clear"></div>
-                        </li>
-
-
-                        <li class="pager" style="width: 570px; float: left; list-style: none;">
-                            <div class="scroll20_l">
-                                <center><a title="铜铝复合暖气片 铜铝散热器" target="_blank" href="/show_172.html"><img
-                                            alt="铜铝复合暖气片 铜铝散热器" src="/upload/images/201407/14067889307701.jpg"
-                                            data-bd-imgshare-binded="1"></a></center>
-                            </div>
-                            <div class="scroll20_r">
-                                <div class="scroll20_r_title">
-                                    <a title="铜铝复合暖气片 铜铝散热器" target="_blank" href="/show_172.html"><font
-                                            style="color:#ff0000;">铜铝复合暖气片 铜铝散热</font></a>
-                                </div>
-                                <div class="scroll20_r_text">铜铝复合暖气片
-                                    铜铝散热器-材质采用优质的电解紫铜作为主管和副管，散热翼铝型材是采用优质铝型材。采用全自动液压胀管工艺，胀管均匀，无间隙，散热性能稳定……
-                                </div>
-                                <div class="scroll20_r_more"><a target="_blank" href="/show_172.html">查看详情</a></div>
-                            </div>
-                            <div class="clear"></div>
-                        </li>
-
-
-                        <li class="pager" style="width: 570px; float: left; list-style: none;">
-                            <div class="scroll20_l">
-                                <center><a title="钢制散热器 钢制柱式散热器" target="_blank" href="/show_157.html"><img
-                                            alt="钢制散热器 钢制柱式散热器" src="/upload/images/201407/14065298648176.jpg"
-                                            data-bd-imgshare-binded="1"></a></center>
-                            </div>
-                            <div class="scroll20_r">
-                                <div class="scroll20_r_title">
-                                    <a title="钢制散热器 钢制柱式散热器" target="_blank" href="/show_157.html"><font
-                                            style="color:#ff0000;">钢制散热器 钢制柱式散热</font></a>
-                                </div>
-                                <div class="scroll20_r_text">钢制散热器
-                                    钢制柱式散热器暖气片-让您享受温馨舒适生活！材质：优质低碳钢（进口原材料）工艺：使用最先进的氩弧焊接设备及技术，焊接强度高，承压能力强；独特的表面抛丸及酸洗磷化处理……
-                                </div>
-                                <div class="scroll20_r_more"><a target="_blank" href="/show_157.html">查看详情</a></div>
-                            </div>
-                            <div class="clear"></div>
-                        </li>
-
-
-                        <li class="pager" style="width: 570px; float: left; list-style: none;">
-                            <div class="scroll20_l">
-                                <center><a title="钢铝暖气片 钢铝复合暖气片 " target="_blank" href="/show_189.html"><img
-                                            alt="钢铝暖气片 钢铝复合暖气片 " src="/upload/images/201408/14072250283515.jpg"
-                                            data-bd-imgshare-binded="1"></a></center>
-                            </div>
-                            <div class="scroll20_r">
-                                <div class="scroll20_r_title">
-                                    <a title="钢铝暖气片 钢铝复合暖气片 " target="_blank" href="/show_189.html"><font
-                                            style="color:#ff0000;">钢铝暖气片 钢铝复合暖气</font></a>
-                                </div>
-                                <div class="scroll20_r_text">
-                                    钢铝暖气片_钢铝复合暖气片材质：分水管及散热管采用优质低碳钢管，散热翼为优质铝型材；工艺采用自动螺旋胀管工艺，胀管无间隙，散热性能稳定；使用最先进的焊接设备及技术，焊接强度高，承压能力强；超细纳米防腐
-                                </div>
-                                <div class="scroll20_r_more"><a target="_blank" href="/show_189.html">查看详情</a></div>
-                            </div>
-                            <div class="clear"></div>
-                        </li>
-
-
-                        <li class="pager" style="width: 570px; float: left; list-style: none;">
-                            <div class="scroll20_l">
-                                <center><a title="钢制板式暖气片" target="_blank" href="/show_368.html"><img alt="钢制板式暖气片"
-                                                                                                      src="/upload/images/201410/14145454158492.jpg"
-                                                                                                      data-bd-imgshare-binded="1"></a>
-                                </center>
-                            </div>
-                            <div class="scroll20_r">
-                                <div class="scroll20_r_title">
-                                    <a title="钢制板式暖气片" target="_blank" href="/show_368.html"><font
-                                            style="color:#ff0000;">钢制板式暖气片</font></a>
-                                </div>
-                                <div class="scroll20_r_text">
-                                    钢制板式散热器是采用优质冷轧低碳钢为原料的新型高效节能散热器，独特的对流片设计增强了室内空气流通，散热效果好，在低温热水情况下使用室内最为舒适；体积相对来说较小，最大程度减小室内占用空间，提高房间的利
-                                </div>
-                                <div class="scroll20_r_more"><a target="_blank" href="/show_368.html">查看详情</a></div>
-                            </div>
-                            <div class="clear"></div>
-                        </li>
-
-
-                        <li class="pager" style="width: 570px; float: left; list-style: none;">
-                            <div class="scroll20_l">
-                                <center><a title="钢三柱暖气片 钢三柱散热器" target="_blank" href="/show_183.html"><img
-                                            alt="钢三柱暖气片 钢三柱散热器" src="/upload/images/201408/14068626231032.jpg"
-                                            data-bd-imgshare-binded="1"></a></center>
-                            </div>
-                            <div class="scroll20_r">
-                                <div class="scroll20_r_title">
-                                    <a title="钢三柱暖气片 钢三柱散热器" target="_blank" href="/show_183.html"><font
-                                            style="color:#ff0000;">钢三柱暖气片 钢三柱散热</font></a>
-                                </div>
-                                <div class="scroll20_r_text">
-                                    钢三柱暖气片、钢三柱散热器材质选用优质低碳钢（进口原材料），工艺：焊接采用先进的内部焊接工艺，焊接强度高，承压能力强，使暖气片的焊接口不受外部腐蚀，耐压耐温，承压能力能达到25公斤；真空灌装防腐涂层均
-                                </div>
-                                <div class="scroll20_r_more"><a target="_blank" href="/show_183.html">查看详情</a></div>
-                            </div>
-                            <div class="clear"></div>
-                        </li>
-
-
-                        <li class="pager" style="width: 570px; float: left; list-style: none;">
-                            <div class="scroll20_l">
-                                <center><a title="铜铝卫浴暖气片 铜铝卫浴散热器" target="_blank" href="/show_181.html"><img
-                                            alt="铜铝卫浴暖气片 铜铝卫浴散热器" src="/upload/images/201408/14068605938967.jpg"
-                                            data-bd-imgshare-binded="1"></a></center>
-                            </div>
-                            <div class="scroll20_r">
-                                <div class="scroll20_r_title">
-                                    <a title="铜铝卫浴暖气片 铜铝卫浴散热器" target="_blank" href="/show_181.html"><font
-                                            style="color:#ff0000;">铜铝卫浴暖气片 铜铝卫浴</font></a>
-                                </div>
-                                <div class="scroll20_r_text">铜铝卫浴暖气片
-                                    铜铝卫浴散热器传递一份温馨，呈现一种高雅品位，材质采用优质的电解紫铜作为主管和副管，散热翼铝型材是采用优质铝型材。采用全自动液压胀管工艺，胀管均匀，无间隙，散热性能稳定……
-                                </div>
-                                <div class="scroll20_r_more"><a target="_blank" href="/show_181.html">查看详情</a></div>
-                            </div>
-                            <div class="clear"></div>
-                        </li>
-
-
-                        <li style="width: 570px; float: left; list-style: none;">
-                            <div class="scroll20_l">
-                                <center><a title="铜铝复合暖气片 铜铝散热器" target="_blank" href="/show_172.html"><img
-                                            alt="铜铝复合暖气片 铜铝散热器" src="/upload/images/201407/14067889307701.jpg"
-                                            data-bd-imgshare-binded="1"></a></center>
-                            </div>
-                            <div class="scroll20_r">
-                                <div class="scroll20_r_title">
-                                    <a title="铜铝复合暖气片 铜铝散热器" target="_blank" href="/show_172.html"><font
-                                            style="color:#ff0000;">铜铝复合暖气片 铜铝散热</font></a>
-                                </div>
-                                <div class="scroll20_r_text">铜铝复合暖气片
-                                    铜铝散热器-材质采用优质的电解紫铜作为主管和副管，散热翼铝型材是采用优质铝型材。采用全自动液压胀管工艺，胀管均匀，无间隙，散热性能稳定……
-                                </div>
-                                <div class="scroll20_r_more"><a target="_blank" href="/show_172.html">查看详情</a></div>
-                            </div>
-                            <div class="clear"></div>
-                        </li>
-                    </ul>
-                </div>
-                <a href="" class="bx-prev"></a><a href="" class="bx-next"></a></div>
-        </div>
-        <!-- 滚动结束 -->
-    </div>
-    &#65279;
+<div class="aboutus">
+    <ul>
+        <p>
+            酒祖杜康名仕封坛原浆酒是杜康面向高端人士以及企事业单位限量销售的专属定制产品。它不是量产酒，而是一种资源产品，是精选窖藏多年精华原酒，经国家级大师亲手酿制的浓香型坛装纯正原浆酒。所有客户均可享受一对一封坛定制和售后服务。客户认购后，可选择将酒委托存放在酒厂专门建造的“专属酒窖”中，杜康将为客户提供托管珍藏、日常养护、及时分装并送抵客户指定地点、转让赠予等多项超值服务。保证客户“不建酒窖而拥有私人专属酒窖”。产品规格分为52°、60°、68°，封酒陶坛为50斤、100斤、200斤装。2014年度限量珍藏666坛。
+        </p>
+        <p>
+            目前有青瓷、红瓷礼品装两种分酒器供会员取酒选用：
+        </p>
+        <p>
+            <img class="lazy" src="/images/20140328152604_5505.jpg" alt="">
+        </p>
+        <p>
+            青瓷：
+        </p>
+        <p>
+            坛子器型源自中国瓷器中最典型的“梅瓶”造型，传世青瓷工艺配以中国书画大师张海亲笔题写“短歌行”，瓶身层层褶皱有如重重关山、滔滔云海，意境悠远而耐人寻味。手提便携式精装礼品盒，由内至外完美呈现个人品味。
+        </p>
+        <p>
+            <img class="lazy" src="/images/20140328152728_8015.jpg" alt="">
+        </p>
+        <p>
+            红瓷：中国最顶级的红瓷，彰显出极致华贵与至高尊崇。坛子器型源自中国瓷器
+        </p>
+        <p>
+            中最典型的“梅瓶”造型，以中国书画大师张海亲笔写“短歌行”为主题创作元素，瓶身层层褶皱有如重重关山、滔滔云海意境悠远，耐人寻味。手绘描金的饕餮纹饰，典雅的中国红釉，细节精致考究，雍容华贵之气，蕴含历史隽永之美，令人惊艳。
+        </p>
+        <p>
+            <img class="lazy" src="/images/20140328152852_4901.jpg" alt="">
+        </p>
+        <p>
+            为了让更多白酒爱好者品尝到封坛酒，2014年度，我们计划通过“文化杜康中国行”大型活动，在全国范围内推广杜康白酒文化，作为载体，公司隆重推出 “甲午年限量珍藏酒”、“大师级纯正原浆酒”系列产品。
+        </p>
+        <p>
+            甲午年限量珍藏酒：酒祖杜康甲午年限量珍藏酒，是杜康控股在2014年度精心推出的一款纯正原浆产品，全国限量5000坛。该产品作为杜康品牌和文化的背书，由国家级酿酒大师亲手酿制，用陶坛在专属恒温酒窖中窖藏，历经5年岁月，陈熟老化后再次调制而成，是个人珍藏、饮用、馈赠亲朋好友的心意之选。
+        </p>
+        <p>
+            <img class="lazy" src="/images/20140328152914_0998.jpg" alt="">
+        </p>
+        <p>
+            大师级原浆酒：大师级原浆酒选用极品原粮，汲取玄武古泉之水；承古法酿制，千斤取其一而得；桑泥古窖，封坛原浆；为大成臻品，和润至尊。连天红蕴，底座由国家级大师精选原木，经过多年自然风干木、白油养木工艺处理后，木性稳定，手感温润细腻，全手工精雕细琢而成，配以明净灵动的亚克力开窗，气度清新典雅，古色古香，红蕴连天，自成乾坤。天器国瓷，独特的窑变釉色钧瓷，其釉色自然形成，每一件都独一无二。其声园润悦耳，清脆动听；其形端庄优美，古朴典雅；且釉透，釉活，胎质精纯，坚实细腻，微透气性，长期存放可促进原浆酒的自然老熟，为收藏酒的上佳器皿。 &nbsp;&nbsp;
+        </p>
+    </ul>
 </div>
