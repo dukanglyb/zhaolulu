@@ -29,6 +29,8 @@
     <?php echo $this->tag->javascriptInclude('dep/flexslider/jquery.flexslider.js'); ?>
     <!--轮播图片插件结束-->
 
+    <?php echo $this->tag->javascriptInclude('js/comm.js'); ?>
+
     <?php echo $this->tag->javascriptInclude('js/utils.js'); ?>
 </head>
 <body class="container">
