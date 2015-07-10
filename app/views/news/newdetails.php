@@ -7,16 +7,16 @@
         </p>
         <ul>
             <p class="MsoNormal" style="text-align:left;text-indent:35pt;">
-                <img class="lazy" src="/attached/image/20140923/20140923120705_9131.jpg" alt="">
+                <img class="lazy" src="/images/20140923120705_9131.jpg" alt="">
             </p>
             <p class="MsoNormal" style="text-align:left;text-indent:35pt;">
-                <img class="lazy" src="/attached/image/20140923/20140923120718_4134.jpg" alt="">
+                <img class="lazy" src="/images/20140923120718_4134.jpg" alt="">
             </p>
             <p class="MsoNormal" style="text-align:left;text-indent:35pt;">
-                <img class="lazy" src="/attached/image/20140923/20140923120732_3667.jpg" alt="">
+                <img class="lazy" src="/images/20140923120732_3667.jpg" alt="">
             </p>
             <p class="MsoNormal" style="text-align:left;text-indent:35pt;">
-                <img class="lazy" src="/attached/image/20140923/20140923120741_0699.jpg" alt="">
+                <img class="lazy" src="/images/20140923120741_0699.jpg" alt="">
             </p>
             <p class="MsoNormal" style="text-indent:35.0pt;">
                 <span style="line-height:1.5;">谁说香港明星只爱喝洋酒，而对中国的白酒不感兴趣？</span><span style="line-height:1.5;">9</span><span style="line-height:1.5;">月</span><span style="line-height:1.5;">20</span><span style="line-height:1.5;">日，在郑州举行的香港明星慈善足球赛慈善晚宴上，作为此次大赛的指定庆功白酒，国花杜康</span><span style="line-height:1.5;">15</span><span style="line-height:1.5;">年就受到罗家英等多位港星的追捧。</span>
@@ -73,44 +73,5 @@
             <p class="MsoNormal" style="text-indent:35.0pt;">
                 &nbsp;
             </p></ul>
-        <div class="bottom_btn">
-            <p>
-                <!-- Baidu Button BEGIN -->
-            </p><div id="bdshare" style="float: right;" class="bdshare_t bds_tools_32 get-codes-bdshare">
-                        <span class="bds_more" style="float:right; margin:0;padding:0; width:26px;height:19px;background:url(/images/btn_share.gif) no-repeat !important;">
-                            &nbsp; </span>
-            </div>
-            <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=0" src="http://bdimg.share.baidu.com/static/js/bds_s_v2.js?cdnversion=399024"></script>
-
-            <script type="text/javascript">
-                document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
-            </script>
-            <!-- Baidu Button END -->
-     <span><em><a href="/Information/Details/198?did=5001">
-                 <img src="/images/btn_pre_b.gif" width="16" height="19" alt="上一篇"></a></em>
-                        <a href="/Information/Details/198?did=5001">
-                            <img src="/images/btn_pre.gif" width="16" height="19" alt="上一篇" title="上一篇"></a></span>
-                    <span><em><a href="/Information/CompanyNews">
-                                <img src="/images/btn_list_b.gif" width="26" height="19" alt="返回列表"></a></em>
-                        <a href="/Information/CompanyNews">
-                            <img src="/images/btn_list.gif" width="26" height="19" alt="返回列表" title="返回列表"></a></span>
-                        <span><em><a href="/Information/Details/14?did=5001">
-                                    <img src="/images/btn_next_b.gif" width="16" height="19" alt="下一篇"></a></em>
-                            <a href="/Information/Details/14?did=5001">
-                                <img src="/images/btn_next.gif" width="16" height="19" alt="下一篇"></a></span>
-            <p></p>
-        </div>
-    </div>
-    <div class="newsmxr">
-        <h4>
-            <img src="/images/til_active.gif" width="157" height="58" alt="活动专题" title="活动专题"></h4>
-        <p>
-            <a href="/Information/Details/215?did=5004">新民酒时代的领导者，杜康引爆2015成都春季糖酒会</a><br>
-            <em>2015-3-26 0:00:00</em></p>
-        <p>
-            &lt;p class="MsoNormal" style="text-indent:24.0000pt;"&gt;	三月的成都很热闹，此时的杜康很繁忙，所有的热闹与繁忙，都缘于2015春季糖酒会。3月22日—25日，2015春季糖酒会酒店展在成都举行，作为豫酒龙头企业，杜康自然不能错过这一场盛事。&lt;/p&gt; ……<br>
-            <a href="/Information/Details/215?did=5004">
-                <img src="/images/btn_viewmx.gif" width="157" height="42" alt="查看详细"></a></p>
-
     </div>
 </div>

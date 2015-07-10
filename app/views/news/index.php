@@ -7,16 +7,16 @@
         <div class="mianbao">
             当前位置 :
             <a title="暖气片" href="/">首页</a>
-            &gt;&gt;<a title="新闻中心" href="/wapContent/News_Center">新闻中心</a>
-        </div><h5>新闻中心</h5><span>News_Center</span>
+            &gt;&gt;<a title="新闻中心" href="/news/index">新闻中心</a>
+        </div>
     </div>
     <div class="xinwen1">
         <dl>
-            <a title="农村太阳能取暖是怎么回事_农村太阳能取暖好用吗？" target="_blank" href="/wapContent/show_740.html">
+            <a title="农村太阳能取暖是怎么回事_农村太阳能取暖好用吗？" target="_blank" href="/news/newdetails">
                 <img alt="农村太阳能取暖是怎么回事_农村太阳能取暖好用吗？" src="/images/14326023862425_s.jpg" width="200" height="174" data-bd-imgshare-binded="1"></a>
             <dt>
                 <span>2015-06-29</span>
-                <a title="农村太阳能取暖是怎么回事_农村太阳能取暖好用吗？" href="/wapContent/show_740.html">
+                <a title="农村太阳能取暖是怎么回事_农村太阳能取暖好用吗？" href="/news/newdetails">
                     <font style="color:#000000;">农村太阳能取暖是怎么回事_农村太阳能取暖好用吗？</font>
                 </a>
             </dt>
@@ -26,7 +26,7 @@
                 农村太阳能是怎么取暖是怎么回事
                 农村太阳能取暖，简单讲就是用太阳能集热器(平板</dd>
             <p>
-                <a target="_blank" href="/wapContent/show_740.html">查看详情</a>
+                <a target="_blank" href="/news/newdetails">查看详情</a>
             </p>
         </dl>
         <dl>
@@ -128,7 +128,6 @@
     <!-- 内容列表分页开始 -->
     <div class="fenye">
         <div class="pages">
-            <span>256条记录/43页</span>
             <strong>1</strong>
 
             <a href="/wapContent/News_Center/2.html">2</a>
