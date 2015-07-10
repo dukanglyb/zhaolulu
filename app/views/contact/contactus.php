@@ -7,11 +7,38 @@
         &gt;&gt;<a title="新闻中心" href="/contact/contactus">联系我们</a>
     </div>
 </div>
-<p>
-    <p>Tel: 010-51626315</p>
-    <p>Fax: 010-51626315</p>
-    <p>Mobile:18612098866</p>
-    <p>QQ: 245012628</p>
-    <p>E-mail: 245012628@qq.com</p>
-    <p>Add: 北京市丰台区首经贸中街6号2层201号金旺康康乐酒店2014</p>
-</p>
+
+<div class="mt20">
+    <p class="f18">Tel: 010-51626315</p>
+
+    <p class="f18">Fax: 010-51626315</p>
+
+    <p class="f18">Mobile:18612098866</p>
+
+    <p class="f18">QQ: 245012628</p>
+
+    <p class="f18">E-mail: 245012628@qq.com</p>
+
+    <p class="f18">Add: 北京市丰台区首经贸中街6号2层201号金旺康康乐酒店2014</p>
+
+    <div class="col-xs-12 col-md-12 col-sm-12 zll-hr"></div>
+    <div class="foot-guanzhu">
+        <h3>关注璐璐源</h3>
+        <div class="foot-weibo col-md-4">
+            <a target="_blank" href="http://weibo.com/ruihuate">
+                <img src="/images/weibo.jpg" data-bd-imgshare-binded="1">
+            </a>
+            <a target="_blank" href="http://t.qq.com/QD_Ruihuate_Radiator">
+                <img src="/images/qq_weibo.png" data-bd-imgshare-binded="1">
+            </a>
+        </div>
+
+
+        <div class="foot-weixin col-md-8">
+            <img src="/images/dingyue.jpg" data-bd-imgshare-binded="1">
+            <br> 订阅号
+            <img src="/images/fuwu.jpg" data-bd-imgshare-binded="1">
+            <br> 服务号
+        </div>
+    </div>
+</div>

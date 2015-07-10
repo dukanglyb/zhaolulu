@@ -16,7 +16,7 @@
 
 <div class="zll-body">
     <?php echo $this->getContent(); ?>
-    <hr>
+    <div class="col-xs-12 col-md-12 col-sm-12 zll-hr"></div>
     <div id="index-footer" class="footer">
         <div class="footer-center"
         <!--合作伙伴-->
