@@ -24,7 +24,8 @@
     <div class="col-xs-12 col-md-12 col-sm-12 zll-hr"></div>
     <div class="foot-guanzhu">
         <h3>关注璐璐源</h3>
-        <div class="foot-weibo col-md-4">
+
+        <div class="foot-weibo col-md-3">
             <a target="_blank" href="http://weibo.com/ruihuate">
                 <img src="/images/weibo.jpg" data-bd-imgshare-binded="1">
             </a>
@@ -34,11 +35,15 @@
         </div>
 
 
-        <div class="foot-weixin col-md-8">
-            <img src="/images/dingyue.jpg" data-bd-imgshare-binded="1">
-            <br> 订阅号
-            <img src="/images/fuwu.jpg" data-bd-imgshare-binded="1">
-            <br> 服务号
+        <div class="col-md-8">
+            <div class='foot-dingyue'>
+                <img src="/images/dingyue.jpg" data-bd-imgshare-binded="1">
+                <div>订阅号</div>
+            </div>
+            <div class="foot-dingyue foot-fuwu fl">
+                <img src="/images/fuwu.jpg" data-bd-imgshare-binded="1">
+                <div>服务号</div>
+            </div>
         </div>
     </div>
 </div>
