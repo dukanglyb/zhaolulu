@@ -43,10 +43,10 @@ class SecurityPlugin extends Plugin
 
 			//Private area resources
 			$privateResources = array(
-				'companies'    => array('index', 'search', 'new', 'edit', 'save', 'create', 'delete'),
-				'products'     => array('index', 'search', 'new', 'edit', 'save', 'create', 'delete'),
-				'producttypes' => array('index', 'search', 'new', 'edit', 'save', 'create', 'delete'),
-				'invoices'     => array('index', 'profile')
+//				'companies'    => array('index', 'search', 'new', 'edit', 'save', 'create', 'delete'),
+//				'products'     => array('index', 'search', 'new', 'edit', 'save', 'create', 'delete'),
+//				'producttypes' => array('index', 'search', 'new', 'edit', 'save', 'create', 'delete'),
+//				'invoices'     => array('index', 'profile')
 			);
 			foreach ($privateResources as $resource => $actions) {
 				$acl->addResource(new Resource($resource), $actions);
@@ -55,12 +55,13 @@ class SecurityPlugin extends Plugin
 			//Public area resources
 			$publicResources = array(
 				'index'      => array('index'),
-                'news'      => array('index','newdetails'),
+                'news'       => array('index','newdetails'),
 				'about'      => array('index'),
 				'register'   => array('index'),
 				'errors'     => array('show401', 'show404', 'show500'),
 				'session'    => array('index', 'register', 'start', 'end'),
-				'contact'    => array('contactus','suggestion')
+				'contact'    => array('contactus','suggestion'),
+				'products'   => array('index')
 			);
 			foreach ($publicResources as $resource => $actions) {
 				$acl->addResource(new Resource($resource), $actions);

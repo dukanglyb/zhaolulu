@@ -12,7 +12,7 @@ class ProductsController extends ControllerBase
 {
     public function initialize()
     {
-        $this->tag->setTitle('Manage your products');
+        $this->tag->setTitle('产品中心');
         parent::initialize();
     }
 
@@ -21,8 +21,8 @@ class ProductsController extends ControllerBase
      */
     public function indexAction()
     {
-        $this->session->conditions = null;
-        $this->view->form = new ProductsForm;
+//        $this->session->conditions = null;
+//        $this->view->form = new ProductsForm;
     }
 
     /**
