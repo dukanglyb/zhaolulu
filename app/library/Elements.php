@@ -32,12 +32,6 @@ class Elements extends Component
                 'caption' => '联系我们',
                 'action' => 'contactus'
             )
-        ),
-        'navbar-right' => array(
-            'session' => array(
-                'caption' => '注册/登录',
-                'action' => 'index'
-            ),
         )
     );
 
