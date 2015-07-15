@@ -24,14 +24,14 @@
 </div>
 <div class="case">
     <div class="title cf">
-        <h2 class="fl"><a href="http://www.zhaolulu.net/products/"  target="_blank" tite:"暖气片产品"="">产品中心</a></h2>
+        <h2 class="fl"><a href="/products/index"  target="_blank" tite:"石油化工产品"="">产品中心</a></h2>
         <ul class="title-list fr cf ">
-            <li class="on"><a href="http://www.zhaolulu.net/Steel_radiator/" target="_blank" tite:"钢制暖气片"="">钢制暖气片</a></li>
-            <li class=""><a href="http://www.zhaolulu.net/Cu-Al_Radiator/" target="_blank" tite:"铜铝复合暖气片"="">铜铝复合暖气片</a></li>
-            <li class=""><a href="http://www.zhaolulu.net/Steel_aluminum/" target="_blank" tite:"钢铝复合暖气片"="">钢铝复合暖气片</a></li>
-            <li class=""><a href="http://www.zhaolulu.net/Bathroom_series/" target="_blank" tite:"卫浴暖气片"="">卫浴暖气片</a></li>
-            <li class=""><a href="http://www.zhaolulu.net/Steam_Radiator/" target="_blank" tite:"蒸汽暖气片"="">蒸汽暖气片</a></li>
-            <li class=""><a href="http://www.zhaolulu.net/Steel_radiator/show_368.html" target="_blank" tite:"钢制板式暖气片"="">钢制板式暖气片</a></li>
+            <li class="on"><a href="/Steel_radiator/" target="_blank" tite:"0号国标柴油"="">0号国标柴油</a></li>
+            <li class=""><a href="/Cu-Al_Radiator/" target="_blank" tite:"-10号国标柴油"="">-10号国标柴油</a></li>
+            <li class=""><a href="/Steel_aluminum/" target="_blank" tite:"-20号国标柴油"="">-20号国标柴油</a></li>
+            <li class=""><a href="/Bathroom_series/" target="_blank" tite:"燃料油"="">燃料油</a></li>
+            <li class=""><a href="/Steam_Radiator/" target="_blank" tite:"生物柴油"="">生物柴油</a></li>
+            <li class=""><a href="/Steel_radiator/show_368.html" target="_blank" tite:"烧火油"="">烧火油</a></li>
             <p style="left: 0px;"><b></b></p>
         </ul>
     </div>
@@ -40,17 +40,17 @@
         <div class="product" style="display: block;">
             <ul class="cf">
                 <li style="border-color: rgb(250, 250, 250);">
-                    <a href="http://www.zhaolulu.net/show_488.html" target="_blank" class="imgwrap">
+                    <a href="/show_488.html" target="_blank" class="imgwrap">
                         <img src="/images/钢制暖气片.jpg" alt="钢制暖气片" data-bd-imgshare-binded="1">
                     </a>
-                    <p class="mt10"> <a href="http://www.zhaolulu.net/show_488.html" target="_blank" tite="钢制暖气片" style="color: rgb(102, 102, 102);">钢制暖气片 钢制散热器</a></p>
+                    <p class="mt10"> <a href="/show_488.html" target="_blank" tite="钢制暖气片" style="color: rgb(102, 102, 102);">钢制暖气片 钢制散热器</a></p>
                     <p class="pb10"> 50 * 25 </p>
                 </li>
                 <li style="border-color: rgb(250, 250, 250);">
-                    <a href="http://www.zhaolulu.net/show_157.html" target="_blank" class="imgwrap">
+                    <a href="/show_157.html" target="_blank" class="imgwrap">
                         <img src="/images/钢制散热器.jpg" alt="钢制散热器" data-bd-imgshare-binded="1">
                     </a>
-                    <p class="mt10"> <a href="http://www.zhaolulu.net/show_157.html" target="_blank" tite="钢制散热器" style="color: rgb(102, 102, 102);">钢制散热器 钢制暖气片</a></p>
+                    <p class="mt10"> <a href="/show_157.html" target="_blank" tite="钢制散热器" style="color: rgb(102, 102, 102);">钢制散热器 钢制暖气片</a></p>
                     <p class="pb10"> 60 * 30 </p>
                 </li>
                 <li style="border-color: rgb(250, 250, 250);">
@@ -72,17 +72,17 @@
         <div class="product" style="display: none;">
             <ul class="cf">
                 <li style="border-color: rgb(250, 250, 250);">
-                    <a href="http://www.zhaolulu.net/show_489.html" target="_blank" class="imgwrap">
+                    <a href="/show_489.html" target="_blank" class="imgwrap">
                         <img src="/images/铜铝复合暖气片.jpg" alt="铜铝复合暖气片" data-bd-imgshare-binded="1">
                     </a>
-                    <p class="mt10"> <a href="http://www.zhaolulu.net/show_489.html" target="_blank" tite="铜铝复合暖气片" style="color: rgb(102, 102, 102);">铜铝复合暖气片 铜铝复合散热器</a></p>
+                    <p class="mt10"> <a href="/show_489.html" target="_blank" tite="铜铝复合暖气片" style="color: rgb(102, 102, 102);">铜铝复合暖气片 铜铝复合散热器</a></p>
                     <p class="pb10"> 75 * 75 </p>
                 </li>
                 <li style="border-color: rgb(250, 250, 250);">
-                    <a href="http://www.zhaolulu.net/show_174.html" target="_blank" class="imgwrap">
+                    <a href="/show_174.html" target="_blank" class="imgwrap">
                         <img src="/images/铜铝复合散热器.jpg" alt="铜铝复合散热器" data-bd-imgshare-binded="1">
                     </a>
-                    <p class="mt10"> <a href="http://www.zhaolulu.net/show_174.html" target="_blank" tite="钢制散热器" style="color: rgb(102, 102, 102);">铜铝复合散热器 铜铝复合暖气片</a></p>
+                    <p class="mt10"> <a href="/show_174.html" target="_blank" tite="钢制散热器" style="color: rgb(102, 102, 102);">铜铝复合散热器 铜铝复合暖气片</a></p>
                     <p class="pb10"> 80 * 80 </p>
                 </li>
                 <li style="border-color: rgb(250, 250, 250);">
@@ -104,17 +104,17 @@
         <div class="product" style="display: none;">
             <ul class="cf">
                 <li style="border-color: rgb(250, 250, 250);">
-                    <a href="http://www.zhaolulu.net/show_492.html" target="_blank" class="imgwrap">
+                    <a href="/show_492.html" target="_blank" class="imgwrap">
                         <img src="/images/钢铝复合暖气片.jpg" alt="钢铝复合暖气片" data-bd-imgshare-binded="1">
                     </a>
-                    <p class="mt10"> <a href="http://www.zhaolulu.net/show_492.html" target="_blank" tite="钢铝复合暖气片" style="color: rgb(102, 102, 102);">钢铝复合暖气片 钢铝复合散热器</a></p>
+                    <p class="mt10"> <a href="/show_492.html" target="_blank" tite="钢铝复合暖气片" style="color: rgb(102, 102, 102);">钢铝复合暖气片 钢铝复合散热器</a></p>
                     <p class="pb10"> 75 * 75 </p>
                 </li>
                 <li style="border-color: rgb(250, 250, 250);">
-                    <a href="http://www.zhaolulu.net/show_490.html" target="_blank" class="imgwrap">
+                    <a href="/show_490.html" target="_blank" class="imgwrap">
                         <img src="/images/钢铝复合散热器.jpg" alt="钢铝复合散热器" data-bd-imgshare-binded="1">
                     </a>
-                    <p class="mt10"> <a href="http://www.zhaolulu.net/show_490.html" target="_blank" tite="钢铝复合散热器" style="color: rgb(102, 102, 102);">钢铝复合散热器 钢铝复合暖气片</a></p>
+                    <p class="mt10"> <a href="/show_490.html" target="_blank" tite="钢铝复合散热器" style="color: rgb(102, 102, 102);">钢铝复合散热器 钢铝复合暖气片</a></p>
                     <p class="pb10"> 80 * 80 </p>
                 </li>
                 <li style="border-color: rgb(250, 250, 250);">
@@ -136,17 +136,17 @@
         <div class="product" style="display: none;">
             <ul class="cf">
                 <li style="border-color: rgb(250, 250, 250);">
-                    <a href="http://www.zhaolulu.net/show_178.html" target="_blank" class="imgwrap">
+                    <a href="/show_178.html" target="_blank" class="imgwrap">
                         <img src="/images/钢制卫浴暖气片.jpg" alt="钢制卫浴暖气片" data-bd-imgshare-binded="1">
                     </a>
-                    <p class="mt10"> <a href="http://www.zhaolulu.net/show_178.html" target="_blank" tite="钢制卫浴暖气片" style="color: rgb(102, 102, 102);">钢制卫浴暖气片 钢制卫浴散热器</a></p>
+                    <p class="mt10"> <a href="/show_178.html" target="_blank" tite="钢制卫浴暖气片" style="color: rgb(102, 102, 102);">钢制卫浴暖气片 钢制卫浴散热器</a></p>
                     <p class="pb10"> </p>
                 </li>
                 <li style="border-color: rgb(250, 250, 250);">
-                    <a href="http://www.zhaolulu.net/show_181.html" target="_blank" class="imgwrap">
+                    <a href="/show_181.html" target="_blank" class="imgwrap">
                         <img src="/images/铜铝卫浴散热器.jpg" alt="铜铝卫浴暖气片" data-bd-imgshare-binded="1">
                     </a>
-                    <p class="mt10"> <a href="http://www.zhaolulu.net/show_181.html" target="_blank" tite="铜铝卫浴暖气片" style="color: rgb(102, 102, 102);">铜铝卫浴暖气片 铜铝卫浴散热器</a></p>
+                    <p class="mt10"> <a href="/show_181.html" target="_blank" tite="铜铝卫浴暖气片" style="color: rgb(102, 102, 102);">铜铝卫浴暖气片 铜铝卫浴散热器</a></p>
                     <p class="pb10"> </p>
                 </li>
                 <li style="border-color: rgb(250, 250, 250);">
@@ -169,17 +169,17 @@
         <div class="product" style="display: none;">
             <ul class="cf">
                 <li style="border-color: rgb(250, 250, 250);">
-                    <a href="http://www.zhaolulu.net/show_183.html" target="_blank" class="imgwrap">
+                    <a href="/show_183.html" target="_blank" class="imgwrap">
                         <img src="/images/蒸汽-钢三柱散热器.jpg" alt="钢三柱暖气片" data-bd-imgshare-binded="1">
                     </a>
-                    <p class="mt10"> <a href="http://www.zhaolulu.net/show_183.html" target="_blank" tite="钢三柱暖气片" style="color: rgb(102, 102, 102);">钢三柱暖气片 钢三柱散热器</a></p>
+                    <p class="mt10"> <a href="/show_183.html" target="_blank" tite="钢三柱暖气片" style="color: rgb(102, 102, 102);">钢三柱暖气片 钢三柱散热器</a></p>
                     <p class="pb10"> </p>
                 </li>
                 <li style="border-color: rgb(250, 250, 250);">
-                    <a href="http://www.zhaolulu.net/show_184.html" target="_blank" class="imgwrap">
+                    <a href="/show_184.html" target="_blank" class="imgwrap">
                         <img src="/images/蒸汽-钢四柱暖气片.jpg" alt="钢四柱暖气片" data-bd-imgshare-binded="1">
                     </a>
-                    <p class="mt10"> <a href="http://www.zhaolulu.net/show_184.html" target="_blank" tite="钢四柱暖气片" style="color: rgb(102, 102, 102);">钢四柱暖气片 钢四柱散热器</a></p>
+                    <p class="mt10"> <a href="/show_184.html" target="_blank" tite="钢四柱暖气片" style="color: rgb(102, 102, 102);">钢四柱暖气片 钢四柱散热器</a></p>
                     <p class="pb10"> </p>
                 </li>
                 <li style="border-color: rgb(250, 250, 250);">
@@ -199,17 +199,17 @@
         <div class="product" style="display: none;">
             <ul class="cf">
                 <li>
-                    <a href="http://www.zhaolulu.net/show_369.html" target="_blank" class="imgwrap">
+                    <a href="/show_369.html" target="_blank" class="imgwrap">
                         <img src="/images/钢制板式暖气片.jpg" alt="钢制板式暖气片" data-bd-imgshare-binded="1">
                     </a>
-                    <p class="mt10"> <a href="http://www.zhaolulu.net/show_369.html" target="_blank" tite="钢制板式暖气片">钢制板式暖气片 钢制板式散热器</a></p>
+                    <p class="mt10"> <a href="/show_369.html" target="_blank" tite="钢制板式暖气片">钢制板式暖气片 钢制板式散热器</a></p>
                     <p class="pb10"> </p>
                 </li>
                 <li style="border-color: rgb(250, 250, 250);">
-                    <a href="http://www.zhaolulu.net/show_368.html" target="_blank" class="imgwrap">
+                    <a href="/show_368.html" target="_blank" class="imgwrap">
                         <img src="/images/钢制板式散热器.jpg" alt="钢制板式散热器" data-bd-imgshare-binded="1">
                     </a>
-                    <p class="mt10"> <a href="http://www.zhaolulu.net/show_368.html" target="_blank" tite="钢制板式散热器" style="color: rgb(102, 102, 102);">钢制板式散热器 钢制板式暖气片</a></p>
+                    <p class="mt10"> <a href="/show_368.html" target="_blank" tite="钢制板式散热器" style="color: rgb(102, 102, 102);">钢制板式散热器 钢制板式暖气片</a></p>
                     <p class="pb10"> </p>
                 </li>
                 <li style="border-color: rgb(250, 250, 250);">
