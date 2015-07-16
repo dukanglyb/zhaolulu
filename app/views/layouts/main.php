@@ -33,7 +33,7 @@
         </div>
         <div class="footer-copyright">
             <p>
-                <em>Company &copy; 2014-<?php echo date("Y"); ?> 璐璐源 京 ICP 备 10011451号-6 北京璐璐源商贸有限公司</em>
+                <em>Company &copy; 2014-<?php date_default_timezone_set("PRC"); echo date("Y"); ?> 璐璐源 京 ICP 备 10011451号-6 北京璐璐源商贸有限公司</em>
             </p>
 
             <p style="text-align: center;">
