@@ -9,9 +9,9 @@
 </div>
 
 <div class="mt20">
-    <p class="f18">Tel: 010-51626315</p>
+    <p class="f18">Tel: 010-80339567</p>
 
-    <p class="f18">Fax: 010-51626315</p>
+<!--    <p class="f18">Fax: 010-51626315</p>-->
 
     <p class="f18">Mobile:18612098866</p>
 
