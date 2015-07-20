@@ -6,16 +6,16 @@
             <div class="flexslider">
                 <ul class="slides">
                     <li>
-                        <img src="/dep/flexslider/images/kitchen_adventurer_cheesecake_brownie.jpg" />
+                        <img src="/dep/flexslider/images/flexslider-zll-1.jpg" />
                     </li>
                     <li>
-                        <img src="/dep/flexslider/images/kitchen_adventurer_lemon.jpg" />
+                        <img src="/dep/flexslider/images/flexslider-zll-2.jpg" />
                     </li>
                     <li>
-                        <img src="/dep/flexslider/images/kitchen_adventurer_donut.jpg" />
+                        <img src="/dep/flexslider/images/flexslider-zll-3.jpg" />
                     </li>
                     <li>
-                        <img src="/dep/flexslider/images/kitchen_adventurer_caramel.jpg" />
+                        <img src="/dep/flexslider/images/flexslider-zll-4.jpg" />
                     </li>
                 </ul>
             </div>
