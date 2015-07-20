@@ -239,25 +239,21 @@
             <div class="index1_1 fl">
 
 
-                <a href="http://www.geruihuate.com" title="暖气片"><img src="/images/LOGO_1.png" width="204" height="136" alt="暖气片" data-bd-imgshare-binded="1"></a>
+                <a href="http://www.geruihuate.com" title="暖气片"><img src="/images/logo-zll.png" width="204" height="136" alt="暖气片" data-bd-imgshare-binded="1"></a>
                 <div class="index1_1_title">
                     <a class="aa" href="/About" target="_blank">关于我们</a>
                     <a class="more" href="/About" target="_blank"><img src="/images/more.gif" width="34" height="13" alt="更多" data-bd-imgshare-binded="1"></a>
                     <span>About</span>
                 </div>
-                <p>
-
-                    青岛瑞华特<a href="http://zhannei.baidu.com/cse/search?s=11300121670632125222&amp;entry=1&amp;q=%E6%9A%96%E6%B0%94%E7%89%87" class="bdcs-inlinelink" target="_blank">暖气片</a>是一家专注研发生产：暖气片、散热器的十大品牌暖气片厂家，提供暖气片价格及报价，瑞华特在中国暖气片品牌十大排名中是10大知名品牌暖气片厂家，暖气片品牌产品有：<a href="http://zhannei.baidu.com/cse/search?s=11300121670632125222&amp;entry=1&amp;q=%E9%92%A2%E5%88%B6%E6%9A%96%E6%B0%94%E7%89%87" class="bdcs-inlinelink" target="_blank">钢制暖气片</a>、<a href="http://zhannei.baidu.com/cse/search?s=11300121670632125222&amp;entry=1&amp;q=%E9%93%9C%E9%93%9D%E5%A4%8D%E5%90%88%E6%9A%96%E6%B0%94%E7%89%87" class="bdcs-inlinelink" target="_blank">铜铝复合暖气片</a>、<a href="http://zhannei.baidu.com/cse/search?s=11300121670632125222&amp;entry=1&amp;q=%E9%92%A2%E9%93%9D%E5%A4%8D%E5%90%88%E6%9A%96%E6%B0%94%E7%89%87" class="bdcs-inlinelink" target="_blank">钢铝复合暖气片</a>、新型卫浴暖气片、蒸汽钢三柱暖气片等采暖<a href="http://zhannei.baidu.com/cse/search?s=11300121670632125222&amp;entry=1&amp;q=%E6%95%A3%E7%83%AD%E7%89%87" class="bdcs-inlinelink" target="_blank">散热片</a>产品.暖气片什么牌子好？首选-瑞华特暖气片品牌。作为一个年生产能力460万柱的暖气片厂家，瑞华特暖气片十大品牌口碑赢得了广大用户的信赖。&nbsp;
-
-                    企业简介
-                    青岛瑞雪兆散热器有限公司以生产销售暖气片为主，是国内著名暖气片十大品牌企业。产品包含：钢制暖气片、铜铝复合暖气片、钢铝复合暖气片、彩色卫浴暖气片、蒸汽气暖暖气片</p>
-
-
+                <p>北京璐璐源是本市唯一家运输，研发，配送集一体的石油化工公司，以销售柴油为主！拥有强大运输车队，已经培训合格的员工是璐璐源保持竞争力和迅速成长的必要条件。
+                    公司实力雄厚，运输，化验，设备齐全，产品全部达到国定标准！ 优质的产品，完善的售后服务，
+                    树立了良好的企业形象，并得到广大用户的好评和信赖，客户复购率95%以上！市场覆盖全国7个省市，真正的实现石化的品质，地炼的价格！
+                </p>
             </div>
             <div class="index1_1 fr">
 
 
-                <a href="/News_Center" title="暖气片新闻中心"><img src="/images/i_2.jpg" width="204" height="136" alt="暖气片新闻中心" data-bd-imgshare-binded="1"></a>
+                <a href="/News_Center" title="暖气片新闻中心"><img src="/images/logo-new.png" width="204" height="136" alt="暖气片新闻中心" data-bd-imgshare-binded="1"></a>
                 <div class="index1_1_title">
                     <a class="aa" href="/News_Center" target="_blank">新闻中心</a>
                     <a class="more" href="/News_Center" target="_blank"><img src="/images/more.gif" width="34" height="13" alt="更多" data-bd-imgshare-binded="1"></a>
